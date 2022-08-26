@@ -1,0 +1,22 @@
+{
+  "name": "sht31-kaluma",
+  "version": "1.0.0",
+  "description": "Kaluma library for SHT31 digital temperature and humidity sensor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keatch/sht31.git"
+  },
+  "author": "Nathan Keatch <n.keatch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keatch/sht31/issues"
+  },
+  "homepage": "https://github.com/keatch/sht31#readme",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
